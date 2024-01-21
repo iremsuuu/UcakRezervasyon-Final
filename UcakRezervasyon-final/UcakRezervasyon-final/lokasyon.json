@@ -1,0 +1,9 @@
+[
+  {
+    "Id": 1,
+    "City": "Amsterdam",
+    "Country": "Holland",
+    "Airport": "Sabihe Gokcen",
+    "IsActive": true
+  }
+]
